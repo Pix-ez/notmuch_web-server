@@ -1,0 +1,12 @@
+# Ignore VSCode settings
+.vscode/
+
+*.o
+*.obj
+
+*.out
+*.exe    # Windows executables
+
+
+build/
+bin/
