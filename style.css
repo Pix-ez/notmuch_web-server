@@ -1,0 +1,29 @@
+body {
+  background-color: #eef;
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#counter-container {
+  margin: 20px auto;
+}
+
+#increment-btn {
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 8px;
+  border: none;
+  background-color: #008cba;
+  color: white;
+  cursor: pointer;
+}
+
+#increment-btn:hover {
+  background-color: #005f5f;
+}
+
+img {
+  margin-top: 20px;
+}

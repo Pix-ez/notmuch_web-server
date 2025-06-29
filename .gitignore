@@ -4,9 +4,9 @@
 *.o
 *.obj
 
-*.out
-*.exe    # Windows executables
+*.exe
 
 
 build/
 bin/
+server
